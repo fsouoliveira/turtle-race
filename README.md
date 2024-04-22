@@ -1,4 +1,4 @@
-# turtle-race
+# Turtle-Race
 Este código cria uma corrida de tartarugas usando a biblioteca Turtle do Python. Aqui está um resumo do que ele faz:
 
 Importa as bibliotecas Turtle e Screen do módulo turtle, além do módulo random.
